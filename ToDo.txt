@@ -5,3 +5,8 @@ REQUIREMENTS
 * Contact by website (EMAIL)
 
 * Do Django WebApps have good performance on BAIDU SEO?
+
+* Create the Super User  
+* Start doing the UI
+* Send a draft to Janey
+* Tutor's page
