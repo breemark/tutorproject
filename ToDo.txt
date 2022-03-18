@@ -1,0 +1,7 @@
+REQUIREMENTS
+
+* CMS >> Menus & Articles   
+* Tutor's CRUD
+* Contact by website (EMAIL)
+
+* Do Django WebApps have good performance on BAIDU SEO?

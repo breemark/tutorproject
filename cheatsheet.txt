@@ -1,0 +1,3 @@
+$ django-admin startproject tutorproject .
+$ django-admin startapp cms
+$ django-admin startapp tutors
